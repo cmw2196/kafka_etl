@@ -1,0 +1,2 @@
+grift==0.6.0
+kafka-python==1.4.2
